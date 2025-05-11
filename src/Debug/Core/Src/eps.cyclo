@@ -1,0 +1,4 @@
+../Core/Src/eps.c:17:9:checkPowerGoodSignals	5
+../Core/Src/eps.c:48:6:handlePowerGoodErrors	6
+../Core/Src/eps.c:71:6:deployAntenna	1
+../Core/Src/eps.c:78:6:deploySolarPanels	1

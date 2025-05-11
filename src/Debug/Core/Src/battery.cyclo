@@ -1,0 +1,2 @@
+../Core/Src/battery.c:21:10:calculateBatteryVoltage	1
+../Core/Src/battery.c:27:10:calculateBatteryChargingCurrent	1

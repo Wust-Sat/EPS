@@ -1,0 +1,4 @@
+../Core/Src/eps.c:17:9:checkPowerGoodSignals	24	static
+../Core/Src/eps.c:48:6:handlePowerGoodErrors	16	static
+../Core/Src/eps.c:71:6:deployAntenna	8	static
+../Core/Src/eps.c:78:6:deploySolarPanels	8	static
